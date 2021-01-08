@@ -10,6 +10,7 @@ This is a curated list of small mini-projects that I created to help explain var
 * Atomic vs. non-atomic properties
 * Classes vs. Structs
 * Communication PAtterns
+* Core Data
 * Debugging
 * Defer
 * Filter, Map & Reduce
