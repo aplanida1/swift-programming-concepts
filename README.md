@@ -2,7 +2,7 @@
 
 This is a curated list of small mini-projects that I created to help explain various Swift programming concepts.
 
-Started on 1/8/2021.
+*Started on 1/8/2021.*
 
 * Access Levels
 * App Delegate & Scene Delegate
